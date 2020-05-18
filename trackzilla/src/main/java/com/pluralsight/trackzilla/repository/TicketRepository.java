@@ -1,4 +1,4 @@
-package com.pluralsight.trackzilla.repositories;
+package com.pluralsight.trackzilla.repository;
 
 import com.pluralsight.trackzilla.entity.Ticket;
 import org.springframework.data.repository.CrudRepository;
